@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dGPeCNjLGQM=",
+  "success": true,
+  "projectFilePath": "/home/arch/VM-Masaüstü-Yedek/UstaPlatform.Pricing/UstaPlatform.Pricing.csproj",
+  "expectedPackageFiles": [
+    "/home/arch/.nuget/packages/microsoft.netcore.app.ref/8.0.20/microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "/home/arch/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.20/microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
